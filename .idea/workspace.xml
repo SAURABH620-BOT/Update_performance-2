@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75a77ad7-e816-4b45-b092-1546d0fa6103" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tFj0Qi4e8YdLusOD5KBaq5w5C1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SpringBootWebfluxProjectApplication.executor": "Run",
+    "JUnit.BookControllerTest.executor": "Run",
+    "JUnit.BookServiceTest.executor": "Run",
+    "JUnit.BookServiceTest.testDeleteBook.executor": "Run",
+    "JUnit.BookServiceTest.testGetBookById.executor": "Run",
+    "JUnit.BookServiceTest.testGetBookById_BookFound.executor": "Run",
+    "JUnit.BookUploadServiceTest.executor": "Run",
+    "JUnit.JwtServerSecurityContextRepositoryTest.executor": "Run",
+    "JUnit.JwtUtillTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Magic_ProjectWebFlux/Performance Focus Plan -2/Performance Focus Plan -2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SpringBootWebfluxProjectApplication">
+    <configuration name="SpringBootWebfluxProjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magic_saurabh.SpringBootWebfluxProjectApplication" />
+      <module name="spring-boot-webflux-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic_saurabh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-webflux-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic_saurabh.controllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.magic_saurabh.controllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.magic_saurabh.controllerTest.BookControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookUploadServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-webflux-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic_saurabh.serviceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.magic_saurabh.serviceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.magic_saurabh.serviceTest.BookUploadServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtServerSecurityContextRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-webflux-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic_saurabh.serviceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.magic_saurabh.serviceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.magic_saurabh.serviceTest.JwtServerSecurityContextRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtUtillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-webflux-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magic_saurabh.serviceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.magic_saurabh.serviceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.magic_saurabh.serviceTest.JwtUtillTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootWebfluxProjectApplication" />
+        <item itemvalue="JUnit.JwtUtillTest" />
+        <item itemvalue="JUnit.JwtServerSecurityContextRepositoryTest" />
+        <item itemvalue="JUnit.BookUploadServiceTest" />
+        <item itemvalue="JUnit.BookControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75a77ad7-e816-4b45-b092-1546d0fa6103" name="Changes" comment="" />
+      <created>1739954492984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739954492984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Performance_Focus_Plan__2$BookServiceTest.ic" NAME="BookServiceTest Coverage Results" MODIFIED="1739956403840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.magic_saurabh.serviceTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Performance_Focus_Plan__2$BookServiceTest_testGetBookById.ic" NAME="BookServiceTest.testGetBookById Coverage Results" MODIFIED="1739956592620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.magic_saurabh.serviceTest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
